@@ -1,0 +1,10 @@
+__pycache__
+notebooks/
+.DS_Store
+*egg-info/
+build/
+dist/
+site/
+*.mp4
+docs/
+data/
